@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    font-family: 'Press Start 2P', cursive;
+    color: gray;
+  }
+
+  a {
+      font-family: 'Press Start 2P', cursive;
+      color: gray;
+      font-size: 12;
+  }
+
+  p {
+    margin: 35px;
+  }
+
+  /*@media only screen and (max-width = 400)*/
